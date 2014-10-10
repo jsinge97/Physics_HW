@@ -29,7 +29,7 @@ int main(int argc, const char * argv[]) {
         
         double heightOfBuilding = (.5 * acceleration * pow(timeTillBottom,2)) * -1;
         
-        printf("The height of the building would have to be %f meters", heightOfBuilding);
+        printf("The height of the building would have to be %f meters \n", heightOfBuilding);
     
     
     }
