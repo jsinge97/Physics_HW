@@ -24,7 +24,7 @@ int main(int argc, const char * argv[]) {
         
         
         
-        double timeTillBottom = 1.9071; //Used a calculator to get this number because to program the algebraic manipulation would have been a waste of time
+        double timeTillBottom = 1.9071; //Used a calculator to get this number because to program the algebraic manipulation in C would have been a waste of time & memory
         
         
         double heightOfBuilding = (.5 * acceleration * pow(timeTillBottom,2)) * -1;
