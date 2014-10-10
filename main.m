@@ -12,6 +12,11 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
     
+        // Please excuse snarky comments and poor line spacing
+    
+    
+    
+    
     
         // const are constants, the rest use types of float or double for casting because physics uses long decimals
         float const initPosition = 10;
