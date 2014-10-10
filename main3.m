@@ -31,7 +31,7 @@ int main(int argc, const char * argv[]) {
         position = position * -1;
         
        
-        printf("The ball's minimum position necessary is %f", position);
+        printf("The ball's minimum position necessary is %f meters", position);
         
     
     
