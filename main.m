@@ -39,7 +39,7 @@ int main(int argc, const char * argv[]) {
         double max = .5 * acceleration * pow(halfTime, 2) + initVelocity * halfTime + initPosition; //There's probably a cleaner way to do this, but it's late.
         
        
-        printf("The ball will hit the ground at a time of %f, and the ball will reach a height of %f meters", time, max);
+        printf("The ball will hit the ground at a time of %f, and the ball will reach a height of %f meters \n", time, max);
         
     
     
