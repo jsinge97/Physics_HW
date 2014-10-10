@@ -23,7 +23,7 @@ int main(int argc, const char * argv[]) {
         
         
        
-        printf("The ball's minimum velocity necessary is %f", initVelocity);
+        printf("The ball's minimum velocity necessary is %f m/s \n", initVelocity);
         
     
     
