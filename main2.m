@@ -16,7 +16,7 @@ int main(int argc, const char * argv[]) {
         double deltaT = .000001;
         double time = 0;
 
-        float velocity = 16;
+        float velocity = 10;
         float const acceleration = -9.8;
         
         
