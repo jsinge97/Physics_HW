@@ -31,7 +31,7 @@ int main(int argc, const char * argv[]) {
         
         
        
-        printf("The ball's position is  %f meters, and the ball's velocity is %f m/s", position, velocity);
+        printf("The ball's position is  %f meters, and the ball's velocity is %f m/s \n", position, velocity);
         
     
     
