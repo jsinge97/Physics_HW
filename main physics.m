@@ -38,7 +38,7 @@ int main(int argc, const char * argv[]) {
         position = .5 * acceleration * pow(time, 2) + initVelocity * time + initPosition;
        
         
-        printf("The rocket reaches the velocity at a time of %f seconds, and the rocket will reach that velocity at %f meters above Mars. \n", time, position);
+        printf("The rocket reaches the velocity at a time of %f seconds, and the rocket will reach that velocity at %f meters above Mars. \n", time, round(position));
         
         
         
